@@ -51,7 +51,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
    conda env create -f environment.yml
    source activate deeplearn_course
 
-   # Run the notebooks
+   # Run the notebooks in Chrome
    jupyter notebook
    ```
 
@@ -78,7 +78,7 @@ Select the notebook 'file.ipynb' and open it with Google Colab using Control Cli
    conda env create -f environment_windows.yml
    conda activate deeplearn_course
 
-   # Run the notebooks
+   # Run the notebooks in Chrome
    jupyter notebook
    ```
 
